@@ -1,0 +1,26 @@
+.weather {
+    width: 80%;
+    border-radius: 6px;
+    box-shadow: 1px -1px 1px 1px rgb(0 0 0 /5%);
+    color: rgb(0, 0, 0);
+    margin: 20px auto 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 20px 20px 35px;
+}
+
+.Mail-body{
+    display: flex;
+    justify-content: left;
+}
+
+.city {
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 1;
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+.weather-icon{
+    width: 50px;
+}
