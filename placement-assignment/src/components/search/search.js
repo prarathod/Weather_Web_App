@@ -53,6 +53,7 @@ const Search = ({ onSearchChange }) => {
             loadOptions={loadOptions}
         />
         </div>
+        
     )
 }
 export default Search;
